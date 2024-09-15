@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Sakshi8365
 - 👀 I’m interested in music,art and tech
 - 🌱 I’m currently learning java and python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on internships and projects
+- 📫 How to reach me sakshoi020703@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i love sleeping
+- ⚡ Fun fact: i am rare like diamond.
 
 <!---
 Sakshi8365/Sakshi8365 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
