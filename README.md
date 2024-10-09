@@ -2,7 +2,7 @@
 - 👀 I’m interested in music,art and tech
 - 🌱 I’m currently learning java and python
 - 💞️ I’m looking to collaborate on internships and projects
-- 📫 How to reach me sakshitiwari010997@gmail.com
+- 📫 How to reach me sakshit9703@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i am rare like diamond.
 
