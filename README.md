@@ -1,6 +1,6 @@
 <h1>Hi there! <img src="assets/blob-wave.gif" alt="👋" width="40" /></h1>
 
-I'm <a href='https://sakshi8365.github.io/portfolio/' target='_blank' rel='noopener noreferrer'>Sakshi</a> — a developer passionate about software engineering, problem-solving, and building things that make an impact.
+I'm <a href='(https://sakshi8365.github.io/Sakshi/)' target='_blank' rel='noopener noreferrer'>Sakshi</a> — a developer passionate about software engineering, problem-solving, and building things that make an impact.
 
 I’m currently focusing on data structures & algorithms, problem-solving, and AI-assisted development and Machine Learning. I enjoy experimenting with new technologies, creating meaningful projects, and strengthening my engineering fundamentals.
 
@@ -12,5 +12,6 @@ Outside of tech, I enjoy gaming, learning new things, exploring science, and sta
 ## Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshitiwari2)
+
 
 
