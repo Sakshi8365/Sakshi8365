@@ -6,7 +6,7 @@ I’m currently focusing on data structures & algorithms, problem-solving, and A
 
 I'm fascinated by large-scale systems, high-impact products, and how AI is transforming modern development. My long-term goal is to contribute to real-world applications and impactful features used at scale.
 
-Outside of tech, I enjoy gaming, learning new things, exploring science, and staying curious.
+Outside of tech, I enjoy gaming, art, learning new things, exploring science, and staying curious.
 
 
 ## Let's connect
